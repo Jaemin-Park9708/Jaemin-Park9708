@@ -6,7 +6,7 @@
 
 ##### :grinning: Student Developer  at 9th SSAFY<br>
 
-since 14.Jan.2023 ~ :ocean:
+since 4.Jan.2023 ~ :ocean:
 
 <br>
 
