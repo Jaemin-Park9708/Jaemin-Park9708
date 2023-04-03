@@ -12,7 +12,7 @@ since 14.Jan.2023 ~ :ocean:
 
 ### :label: Level
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jaemin-Park9708&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jaemin-Park9708&show_icons=true&count_private=true&hide_border=true" align="center" /><img align='left' width='40%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=catbirdseat"></div> 
 
 ### :rocket: Skills 
 
